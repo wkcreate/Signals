@@ -1,0 +1,27 @@
+{
+  "pairs": "auto",
+  "timeframe": "15m",
+  "htf": "1h",
+  "refresh_sec": 60,
+  "news_refresh_sec": 120,
+  "threshold": 0.35,
+  "min_conf": 45,
+  "sl_atr": 1.5,
+  "rr": 1.5,
+  "deposit": 1000,
+  "risk_pct": 1.0,
+  "clear_screen": true,
+  "telegram": {
+    "token": "",
+    "chat_id": ""
+  },
+  "max_signals": 3,
+  "min_atr_pct": 0.15,
+  "btc_filter": true,
+  "workers": 12,
+  "auto_top": 0,
+  "min_volume_usd": 2000000,
+  "multi_top": 30,
+  "entry_mode": "limit",
+  "limit_atr": 0.25
+}
